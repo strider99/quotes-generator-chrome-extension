@@ -56,3 +56,11 @@ body {
 	color: #fff;
 	cursor: pointer;
 }
+
+.socialIcons {
+	text-align: center;
+
+}
+.fa-twitter{
+	color: #1DA1F2
+}
