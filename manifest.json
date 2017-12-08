@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Words Worth Quotes",
-	"version": "1.0.2",
+	"version": "1.0.4",
 	"description": "Displays Famous Quotes",
 	"icons": {
 		"16": "icon.png",
