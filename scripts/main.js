@@ -13,7 +13,8 @@ $(document).ready(function () {
 
 	var quote = '';
 	var author = '';
-	var colors = ['#00CC99', '#2B99E2', '#2B76E2', '#CE2BE2', '#E22BAA', '#115D99', '#990099', '#00B1CC', '#00FFCC', '#0079CC'];
+	// var colors = ['#00CC99', '#2B99E2', '#2B76E2', '#CE2BE2', '#E22BAA', '#115D99', '#990099', '#00B1CC', '#00FFCC', '#0079CC'];
+	var colors = ['#219EB0', '#F68622', '#85B640'];
 	function getQuote () {
 		$.ajax({
 			headers : {
